@@ -1,0 +1,1 @@
+in this directory, a file name as firebase.config.js which will contain the firebase config
